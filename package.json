@@ -1,0 +1,22 @@
+{
+  "name": "node_chat_app",
+  "version": "1.0.0",
+  "description": "This is chat appliction using Node js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "@anjali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
